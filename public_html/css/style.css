@@ -1,24 +1,39 @@
 body {
    background-color: grey;
+   
 }
 
 a {
-    color: green;
+    color: blue
 }
 
 #current-link {
     text-decoration: none;
+    margin-left: 1250px;
+    font-size: 20px;
+    margin-top: 50px;
+    
 }
 
 .uppercase {
     text-transform: uppercase;
-    font-size: 25px;
-    color: white;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 20px;
 }
+
+.lowercase {
+   margin: 135px;
+    text-decoration: none;
+}
+
 
 img {
     width: 250px;
-    height: auto;
+    height: 250px;
+    margin-left: 55px;
+    margin: 78px;
+    margin-bottom: 70px;
 }
 
 h1 {
@@ -26,8 +41,28 @@ h1 {
     border-width: 4px;
     border-color: black;
     padding: 20px;
-    padding-left: 217px;
+    padding-left: 245px;
     margin: 15;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 340px;
+    margin-right: 340px;
 }
+
+h3 {
+    margin-top: 40px;
+}
+
+h4 {
+    margin: 100px;
+}
+
+#current-link:hover {
+    background-color: whitesmoke;
+} 
+ 
+opacity: 0.5; {
+}
+
+
+
+
+
