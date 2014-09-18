@@ -4,7 +4,7 @@ body {
 }
 
 a {
-    color: blue
+    color: black;
 }
 
 #current-link {
@@ -19,7 +19,7 @@ a {
 .uppercase {
     text-transform: uppercase;
     font-size: 20px;
-    color: white;
+    color: black;
     margin-bottom: 20px;
 }
 
@@ -35,13 +35,14 @@ img {
     margin-left: 55px;
     margin: 78px;
     margin-bottom: 70px;
-    border-radius: 5px; 
+    border-radius: 5px;
+    
 }
 
 h1 {
     border-style: dashed;
     border-width: 4px;
-    border-color: white;
+    border-color: black;
     padding: 20px;
     padding-left: 245px;
     margin: 15;
@@ -51,7 +52,7 @@ h1 {
 }
 
 h3 {
-    color: white;
+    color: black;
     margin-top: 40px;
 }
 
@@ -60,9 +61,10 @@ h4 {
 }
 
 #current-link:hover {
-    background-color: white;
+    background-color: black;
 } 
- 
+
+
 
 
 
