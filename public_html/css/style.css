@@ -95,7 +95,26 @@ img{
         width:320px;
     }
 }
+@media screen and (max-width:0px){
+div#mediv{
+    width:500px;
+    margin: opx auto;
+    height: 100px;
+    font size 27px;
+}
 
+@media screen and (max-width:1000px){
+    width:1000px;
+    margin: opx auto;
+    height: 100px;
+    font size 27px;
+}
+@media screen and (max-width:1400px){
+    width:1400px;
+    margin: opx auto;
+    height: 100px;
+    font size 27px;
+}
 
 
  
